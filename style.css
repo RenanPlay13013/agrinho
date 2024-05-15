@@ -1,0 +1,123 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header img {
+    width: 100%;
+    height: 50%;
+    border-radius: 0%;
+    border: 2px solid #5BBE42;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: #5BBE42;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+.container {
+    padding: 0px 0px;
+}
+
+nav a {
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: #5BBE42;
+}
+
+.contact-form input{
+    width: 100%;
+    padding: 8px 0;
+    margin: 8px 0;
+}
+
+.contact-form input[type=text] {
+    height: 100px;
+}
+
+button {
+    color: black;
+    background-color: white;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+
+.relogio{
+	justify-content: space-around;
+	padding: 2em;
+}
+.aba-conteudo.ativo{
+	display:block;
+}
+.aba-conteudo{
+	display: none;
+}
+.aba-conteudo-titulo-principal{
+	font-size: 28px;
+	text-align: center;
+}
+.aba-conteudo-titulo-secundario{
+	text-align: center;
+	text-transform: uppercase;
+}
+.contador{
+	display:flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.contador-digito{
+	padding: 10  18px; 
+	text-align: center;
+	min-width: 100px;
+}
+.contador-digito-numero{
+	font-size: 50px;
+	margin: 0;
+}
+.contador-digito-texto{
+	font-size: 20px;
+	margin: 0;
+}
+.foto{ 
+    width: 300px;
+    height: 150px;
+}
