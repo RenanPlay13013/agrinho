@@ -4,10 +4,9 @@ Projeto Agrinho 2024
 Colégio Estadual Rio Branco
 NRE-Ivaiporã
 Link do projeto no Github pages https://renanplay13013.github.io/agrinho/
-Link do projeto no Vercel https://agrinho-seven-xi.vercel.app/
+Link do projeto no Vercel: https://agrinho-seven-xi.vercel.app/
 👀 👨‍💻 Gosto de programação, principalmente Javascript, java e um pouco de Typescript...
 Front end e Back end...
-Link do site no vercel: https://agrinho-seven-xi.vercel.app/
  
 
 link do site onde retirei as imagens:
